@@ -1,5 +1,5 @@
 # Data Pipeline for Spotify Data Analysis with AWS and Snowflake
-![Uploading Screenshot 2024-06-17 at 8.41.05 PM-Photoroom.png…]()
+![Screenshot 2024-06-17 at 8 41 05 PM-Photoroom](https://github.com/Boxydaa/Spotify_pipeline/assets/152782315/ec42727c-bcd2-42a5-9848-02153731a0dc)
 
 # Architecture Overview
 The data pipeline for Spotify data analysis involves the following components:
